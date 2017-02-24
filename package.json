@@ -1,0 +1,15 @@
+{
+  "name": "randomexplo",
+  "version": "0.0.0",
+  "description": "A dungeon crawling game",
+  "main": "js/game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cheikhrouhou Yacine",
+  "license": "WTFPL",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
